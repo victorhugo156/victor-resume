@@ -1,0 +1,16 @@
+:root{
+  --bgPaleBlue: #F6FBFF;
+  --gray: #E9EEF2;
+  --dark-gray: #333333;
+  --black:#010101;
+
+  /*Fonts*/
+
+  --xl: 6.875rem;
+  --lg: 3.75rem;
+  --md: 2.375rem;
+  --regular: 1.875rem;
+  --light: 1.625rem;
+  --extra-light: 1rem;
+
+}
